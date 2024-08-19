@@ -1,0 +1,1 @@
+from pgmpy.myscipy._chi import chi2_contingency
